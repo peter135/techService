@@ -1,0 +1,65 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  -moz-background-size:cover;
+  background-size:cover;
+  overflow: auto;
+  width: 100%;
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    overflow: auto;
+    flex: 1;
+    
+    .spanTitle {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left:15px ;
+        padding-right: 15px;
+        border-radius: 4px;
+        color: white;
+        background-color:@primary-color;
+        width: fit-content;
+    }
+
+    .columnData {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+
+       .columnItem {
+         display: flex;
+         flex-direction: column;
+         box-shadow: 0px 2px 12px #DBDBDB;
+         border-radius: 4px;
+         margin-top: 12px;
+
+         img{
+          margin-bottom: 12px;
+          width: 100%;
+         }
+
+         .columnText{
+          display: flex;
+          flex-direction: column;
+          padding-left: 10px;
+          padding-right: 10px;
+
+           span {
+            font-size: 12px;
+            margin-bottom: 12px;
+           }
+         }
+
+       }
+
+
+
+    }
+
+  }
+
+}

@@ -1,0 +1,162 @@
+{
+    "products":[
+        {
+            "name":"排水帽",
+            "data":[
+                {
+                    "id":11,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":12,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":13,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":14,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                }
+        
+        
+            ]
+        },
+        {
+            "name":"长柄滤头",
+            "data":[
+                {
+                    "id":11,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":12,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":13,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":14,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                }
+        
+        
+            ]
+        },
+        {
+            "name":"曝气器",
+            "data":[
+                {
+                    "id":11,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":12,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":13,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":14,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                }
+        
+        
+            ]
+        },
+        {
+            "name":"水处理填料",
+            "data":[
+                {
+                    "id":11,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":12,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":13,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":14,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                }
+        
+        
+            ]
+        },
+        {
+            "name":"废气塔填料",
+            "data":[
+                {
+                    "id":11,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":12,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":13,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                },
+                {
+                    "id":14,
+                    "name":"名字",
+                    "img":"https://www.hfsclgs.com/upLoad/product/month_2112/20211209102830109.jpg",
+                    "desc":"描述"
+                }
+        
+        
+            ]
+        }
+
+    ]
+    
+
+}
