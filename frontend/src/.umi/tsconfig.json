@@ -19,7 +19,7 @@
         "src/.umi/*"
       ],
       "umi": [
-        "/Users/apple/Desktop/techservice/frontend/node_modules/umi"
+        "/Users/apple/Desktop/techService/frontend/node_modules/umi"
       ],
       "umi/typings": [
         "src/.umi/typings"

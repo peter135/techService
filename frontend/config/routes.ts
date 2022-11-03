@@ -31,5 +31,17 @@ export default  [
         path: '/login',
         component: '../pages/login/login',
     },
+    {
+        path: '/books',
+        component: '../pages/books/books',
+    },
+    {
+        path: '/books/add',
+        component: '../pages/books/add',
+    },
+    {
+        path: '/books/update',
+        component: '../pages/books/update',
+    },
 
 ]

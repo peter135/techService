@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    -moz-background-size:cover;
+    background-size:cover;
+    overflow: hidden;
+    width: 100%;
+    align-items: center;
+
+    .books {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .book {
+            width: 200px;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        .delete{
+            background: red;
+        }
+
+        .update{
+            background: green;
+        }
+
+    }
+
+    .button {
+        width: 200px;
+    }
+}

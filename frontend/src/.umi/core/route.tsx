@@ -5,7 +5,7 @@ import React from 'react';
 
 export async function getRoutes() {
   return {
-    routes: {"1":{"path":"/","file":"@/layouts/basicLayout.tsx","id":"1"},"2":{"path":"/","redirect":"/home","parentId":"1","id":"2"},"3":{"path":"/home","file":"@/pages/home/home.tsx","parentId":"1","id":"3"},"4":{"path":"/products","file":"@/pages/products/products.js","parentId":"1","id":"4"},"5":{"path":"/about","file":"@/pages/about/about.tsx","parentId":"1","id":"5"},"6":{"path":"/productDetail","file":"@/pages/productDetail/productDetail.tsx","id":"6"},"7":{"path":"/login","file":"@/pages/login/login.tsx","id":"7"}},
+    routes: {"1":{"path":"/","file":"@/layouts/basicLayout.tsx","id":"1"},"2":{"path":"/","redirect":"/home","parentId":"1","id":"2"},"3":{"path":"/home","file":"@/pages/home/home.tsx","parentId":"1","id":"3"},"4":{"path":"/products","file":"@/pages/products/products.js","parentId":"1","id":"4"},"5":{"path":"/about","file":"@/pages/about/about.tsx","parentId":"1","id":"5"},"6":{"path":"/productDetail","file":"@/pages/productDetail/productDetail.tsx","id":"6"},"7":{"path":"/login","file":"@/pages/login/login.tsx","id":"7"},"8":{"path":"/books","file":"@/pages/books/books.jsx","id":"8"},"9":{"path":"/books/add","file":"@/pages/books/add.jsx","id":"9"},"10":{"path":"/books/update","file":"@/pages/books/update.jsx","id":"10"}},
     routeComponents: {
 '1': React.lazy(() => import(/* webpackChunkName: "layouts__basicLayout" */'@/layouts/basicLayout.tsx')),
 '2': React.lazy(() => import( './EmptyRoute')),
@@ -14,6 +14,9 @@ export async function getRoutes() {
 '5': React.lazy(() => import(/* webpackChunkName: "p__about__about" */'@/pages/about/about.tsx')),
 '6': React.lazy(() => import(/* webpackChunkName: "p__productDetail__productDetail" */'@/pages/productDetail/productDetail.tsx')),
 '7': React.lazy(() => import(/* webpackChunkName: "p__login__login" */'@/pages/login/login.tsx')),
+'8': React.lazy(() => import(/* webpackChunkName: "p__books__books" */'@/pages/books/books.jsx')),
+'9': React.lazy(() => import(/* webpackChunkName: "p__books__add" */'@/pages/books/add.jsx')),
+'10': React.lazy(() => import(/* webpackChunkName: "p__books__update" */'@/pages/books/update.jsx')),
 },
   };
 }
