@@ -1,10 +1,11 @@
 import express from "express";
 const app = express();
-import authRoutes from "../routes/auth"
-import userRoutes from "../routes/users"
-import postRoutes from "../routes/posts"
-import commentRoutes from "../routes/comments"
-import likeRoutes from "../routes/likes"
+
+import authRoutes from "./routes/auth.js"
+import userRoutes from "./routes/users.js"
+import postRoutes from "./routes/posts.js"
+import commentRoutes from "./routes/comments.js"
+import likeRoutes from "./routes/likes.js"
 
 
 app.use(express.json())

@@ -1,4 +1,4 @@
-import { db } from "../server/connect"
+import { db } from "../server/connect.js"
 import bcrypt from "bcrypt"
 
 export const register = (req,res)=>{
